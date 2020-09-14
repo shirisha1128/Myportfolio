@@ -1,0 +1,59 @@
+.body{
+	font-family:"avenir next";
+}
+li{
+	list-style:none;
+}
+.header{
+  background-color:#C1ED81; 
+	color:#fff;
+	height: 120px;
+}	
+.header-logo{
+	float:left;
+	font-size:45px;
+	padding:20px 40px;
+}
+.header-list{
+	float:left;
+}	
+.header-list li{
+	float:left;
+	padding:40px 50px;
+}
+.main{
+	padding:80px 50px;
+}
+.copy-container h1{
+  font-size:40px;
+}
+.copy-container p{
+	font-size:25px;
+}
+.contents{
+  height:200px;
+  font-size:20px;
+}
+.selection-title{
+  border-bottom:2px solid #dee7ec;
+  font-size:28px;
+  padding-bottom:15px;
+  margin-bottom:50px;
+}
+.message-wrapper{
+  text-align:center;
+  font-size:28px;
+}
+.footer{
+  background-color:#D1A2E4 ;
+  color:#fff;
+  height:50px;
+  padding:50px;
+}
+.footer-list li{
+  padding-right:240px;
+  float:left;
+}
+.fa{
+  margin-right:5px;
+}
